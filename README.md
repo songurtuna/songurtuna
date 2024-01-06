@@ -20,7 +20,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,html,c#,css)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=songurtunA&show_icons=true&locale=en&layout=compact" alt="songurtuna" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=songurtuNA&show_icons=true&locale=en&layout=compact" alt="songurtuna" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=songurtuna&show_icons=true&locale=en" alt="songurtuna" /></p>
 
